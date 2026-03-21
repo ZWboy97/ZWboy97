@@ -5,7 +5,6 @@
 ![focus](https://img.shields.io/badge/focus-cs-brightgreen)
 ![age](https://img.shields.io/badge/age-24-blue)
 ![living](https://img.shields.io/badge/living-beijing-3c9)
-![visitor](https://page-views.glitch.me/badge?page_id=zwboy97.github.profile)
 
 <a href="https://profile-summary-for-github.com/user/zwboy97">
 <img src='https://github-readme-stats-zwboy97.vercel.app/api?username=ZWboy97&show_icons=true&theme=nord&count_private=false&hide_border=true&title_color=3b4252&bg_color=eceff4&text_color=2e3440&icon_color=8fbcbb' width='63%'></img>
